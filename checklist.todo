@@ -1,0 +1,121 @@
+@How 
+Don't aim for perfection in the first go. Instead, aim to create a Minimum Viable Product (MVP) =>
+Learn by doing: When you come across a task that you don't know how to do, take the time to research and learn. 
+This could be reading documentation, following tutorials, or looking at examples of similar projects =>
+Code review (ChatGPT or online communities) => Iterate : improve upon your work incrementally => Repeat.
+
+@Explore
+✔ Slots @done(23-07-11 11:34)
+✔ v-data in tags @done(23-08-28 20:50)
+☐ Difference between view and component
+☐ Composition API 
+☐ Apollo
+☐ Graphql
+
+Todos:
+
+Now:
+  ✔ Comment the whole code for ease of access @done(23-05-13 16:37)
+  ✔ Add mongoose-unique-validator @done(23-05-13 16:50)
+  ✔ Hash the password @high @done(23-05-22 15:20)
+  ✔ Generate JWT @high @done(23-05-22 16:10)
+  ✔ Change the navbar @done(23-05-25 19:23)
+  ✔ Add simple log in form @done(23-05-31 16:00)
+  ✔ Add log in in the backend @done(23-06-03 16:19)
+  ✔ Set up roles in token @done(23-06-03 16:47)
+  ✔ Rework the home page @high @done(23-06-08 00:15)
+  ✔ Rework the navbar @high @done(23-06-08 00:15)
+  ✔ Text like in the site @high @done(23-06-15 23:38)
+  ✔ Add style to navbar items and button (Check pinterest) @high @done(23-06-16 11:22) 
+  ✔ Debug navbar item style change on select @done(23-07-03 15:23)
+  ✔ Start Work on the disciplines page @done(23-07-03 17:07)
+  ✔ Implement a basic card component for the disciplines page @done(23-07-04 17:40)
+  ✔ Run tests on the card components @done(23-09-11 13:18)
+    ✔ More than 4 cards @done(23-07-08 18:58)
+    ✔ Responsivness @done(23-07-21 21:33)
+  
+  ☐ Create a git repository and share it online for feedback
+  
+  ☐ Hompage
+    ☐ Homepage animations
+    ☐ Member log in button style on hover 
+    ☐ Navbar design for smaller screens
+    ☐ Homepage layout for smaller screens
+ 
+  ☐ Instructors page
+    ☐ Modal component
+    ✔ Implement a basic modal component @done(23-07-08 18:58)
+    ✔ Link the modal to the card component @done(23-07-21 19:50)  
+    ✔ Add a close button to modal @done(23-07-21 20:01)
+    ✔ Remove overflow when displaying modal @done(23-07-21 21:32)
+    ☐ Add a body to the modal 
+    ☐ Add a footer to the modal
+    ☐ Show modal on card click with instructor information
+    ☐ Work on responsivness for smaller screens
+    ☐ Find a custom banner
+
+  ☐ Disciplines page
+    ☐ Images
+    ☐ Redirect to discipline page when clicking on a card
+    ☐ Discipline page for Muay Thai 
+      ☐ Muay Thai for all
+      ☐ Coaching
+      ☐ Description
+      ☐ Photo
+    ☐ Work on responsivness for smaller screens
+
+  ☐ News page 
+    ✔ Add a news card component (3x3) @done(23-09-01 17:42)
+    ☐ Improve the design for the news card component
+    ☐ Work on the responsivness for smaller screens
+
+  ☐ User login-logout (Use composition API)
+    ☐ Add a log in form
+    ☐ Add a sign up form
+    ☐ Add a forgot password form
+    ☐ Add a reset password form
+    ☐ Add a resend verif
+    ☐ Store log in information
+      ☐ Token
+      ☐ Role
+      ☐ User information
+      ☐ User session?
+  
+  ☐ Deploy
+    ☐ Test deployement options
+
+  ☐ Class schedule
+  
+  ☐ Club membership page 
+
+  ☐ Gallery page
+
+  ☐ Contact page
+    
+  ☐ Competitors page
+  
+  ☐ Admin site functions
+    ☐ Create a new news article
+    ☐ Alert SMS
+   
+  ☐ Items not taken from previous site
+    ☐ Partenaires
+    ☐ Liens
+    ☐ La salle
+
+     
+Later:
+  
+  ☐ Refactor css 
+
+  ☐ Improve security (Check chatGpt list)
+    ☐ Environment Variables
+    ☐ Password Strength Validation
+    ☐ Hashing Algorithmw
+    ☐ Rate Limiting
+    ☐ Data Sanitization
+    ☐ Refresh Tokens
+    ☐ Email Verification
+    ☐ Logging
+ 
+    
